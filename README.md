@@ -6,21 +6,31 @@ How to init the project :
 - execute 'node index.js' to solve your maze :)
 
 
-//LEGEND MAZE
-//--------------
-//Void : 0
-//Wall: 1
-//Starting point: 2
-//Finish point: 3
-//--------------
+LEGEND MAZE
+
+Void : 0
+
+Wall: 1
+
+Starting point: 2
+
+Finish point: 3
+
+
+
 
 Exemple of maze :
 
  [
+
   [2, 1, 1, 1, 1, 3],
+
   [0, 0, 1, 0, 0, 0],
+
   [1, 0, 0, 0, 1, 1],
+
   [1, 1, 1, 0, 1, 0]
+  
 ]
 
 Rules :
